@@ -42,7 +42,7 @@
 
 ## Python Packages and Applications
 
--	[PolyID web application](https://polyid.nrel.gov)
+-	[PolyID web application](https://polyid.nrel.gov) [PolyID Logo](https://github.com/wilsoa6/wilsoa6.github.io/blob/main/images/polyID-logo_color-short.svg?raw=true)
 -	[PolyID (pypi: polyid)](https://pypi.org/project/polyid)
 -	[ChemCatBio Data Hub](https://datahub.chemcatbio.org/) 
 -	[Monomers to Polymers (pypi: m2p)](https://pypi.org/project/m2p)
