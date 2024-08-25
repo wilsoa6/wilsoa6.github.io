@@ -11,7 +11,7 @@
 
 **NREL**
 *Research Engineer IV, Research Engineer III, Post-Doc. Researcher* (2016 – 2023)
-- Identified & synthesized 5 performance advantaged polymers from 1.4x10^6 candidates by developing and applying new graph nets in Tensorflow
+- Identified & synthesized 5 performance advantaged polymers from 1.4x10<sup>6</sup> candidates by developing and applying new graph nets in Tensorflow
 - PI of 6 programs using ML for polymer and catalyst discovery
 - Developed novel processes for >10 biochemicals or biopolymer products
 - Secured and managed over $700k year-over-year in DOE funding 
