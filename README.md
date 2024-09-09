@@ -7,30 +7,38 @@
 ## Profession Experience
 **ExxonMobil**
 *Process Development Engineer & Program Lead* (2023 - current)
-- Process conceptualization, development, and modeling for low emission fuels
+- Built codebase for daily analysis of experimental campaigns using python API to access SEEQ database
+- Aspen-based process modeling for development of low-emission fuel processes 
+
 
 **NREL**
 *Research Engineer IV, Research Engineer III, Post-Doc. Researcher* (2016 – 2023)
-- Identified & synthesized 5 performance advantaged polymers from 1.4x10<sup>6</sup> candidates by developing and applying new graph nets in Tensorflow
-- PI of 6 programs using ML for polymer and catalyst discovery
+- Lead developer for material discovery platform, PolyID, capable of screening >10<sup>6</sup> candidates using graph nets trained across 44-node gpu cluster
+- Lead for 6yr $2.4M program that integrated geometric-ML models, MD, DFT, & network generation. Tools were leveraged by >5 industrial partners for materials discovery.
+- Proposed, secured, and executed program for developing ML-based, process-model surrogates that achieved >100x increase in throughput
+- Secured and managed over $700k year-over-year in DOE funding with 6 programs developing neural networks for polymer and catalyst discovery.
 - Developed novel processes for >10 biochemicals or biopolymer products
-- Secured and managed over $700k year-over-year in DOE funding 
+
 
 **Tolmar**
 *Process Development Engineer II* (2010 – 2012)
-- Lead engineer on extended-release drug formulation
-- Process development of PLGA polymers used in drug eluting depot 
+- Lead scaleup engineer on extended-release formulations that used JMP for DOE and statistical analysis to meet FDA requirements, QbD
+- Development, scaleup, & qualification (IQ/OQ/PQ ) of sterile process for extended-release drug formulation (ANDA – paliperidone palmitate XR)
+- Process qualification of PLGA polymers used in drug eluting depot
+
 
 **Clemson University**
 *Graduate Research Assistant* (2010 – 2014)
 - Experimental development of molecular feedback loops for drug deliver
 - Multiphysics modeling of molecular feedback looks
 
+
 ## Competencies
 - **Data Science, Modeling, & Analysis**: Neural networks (graph, recurrent, convolutional), VAE, tensorflow, containers, Github, Python, Scikit-Learn, RDKit, Aspen Plus, COMSOL, CFD, JMP, design of experiment, data visualization, statistics, data management
 - **Process Development**: process conceptualization, process development, process commissioning & startup, process scaleup, TEA/LCA, process modeling (Aspen Plus), process chemistry
 - **Experimental & Analytical**: chemical & polymer synthesis, distillation, liquid-liquid extraction, polymer characterization, adsorption/desorption, simulated-moving beds, GCMS/FID, TGA, DSC, NMR, FTIR, GPC, DLS, UV-Vis
 - **Leadership & Management**: leading of interdisciplinary and interinstitutional teams, project management, mentorship, customer development, contractor management, grants and funding
+
 
 ## Highlighted Projects
 - **[PolyID](https://polyid.nrel.go): Inverse Bio-product Design (NREL)** – This technology was developed to discover novel bio-based polymers and chemicals using graph neural networks. Within the program, we mapped physical polymer structures to the right ML architectures and integrated multimodal data (experimental, computational, 2D/3D representations) to create a state-of-the-art tool to guide experimental research. I served as the technical expert in machine learning, led as PI, and developed the web application. The technology was deployed to 6 partnered projects, both private and government, to guide synthesis of sustainable materials. I contributed to 3 records of invention, 2 software records of invention, 1 provision patent (2 additional in draft), 2 open-sourced python packages, and 2 published manuscripts.
@@ -48,6 +56,7 @@
 -	[PolyID (pypi: polyid)](https://pypi.org/project/polyid)
 -	[ChemCatBio Data Hub](https://datahub.chemcatbio.org/) 
 -	[Monomers to Polymers (pypi: m2p)](https://pypi.org/project/m2p)
+-	[ML for Process Development (pypy: ml4pd)](https://pypi.org/project/ml4pd/)
 -	[Neural Fingerprints (pypi: nfp)](https://pypi.org/project/nfp)
 
 ## Awards
